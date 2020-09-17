@@ -1,5 +1,5 @@
-|------------------------------|--------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------|
 | Distribution                 | Linux mint                     | Manjaro                                 | Arch linux                              | Fedora                            |
+|------------------------------|--------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------|
 | Mother distrib.              | Debian                         | Arch linux                              | 0                                       | 0                                 |
 | Package manager/format       | aptitude/.deb                  | pacman/.tar.gz                          | pacman/.tar.gz                          | dnf/.rpm                          |
 | Support from Robotronik      | some                           | good                                    | good                                    | small                             |
@@ -14,4 +14,3 @@
 | Recommended for              | first time users               | first time users                        | passionate about tinkering              | wants to be 100% compatible with  |
 |                              | don't like tinkering with PC's | enjoy some tinkering                    | their configuration/control             | school's cent os setup            |
 |                              | wants support from teacher     | do not care about support from teachers | do not care about support from teachers | wants support from teachers       |
-|------------------------------|--------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------|
